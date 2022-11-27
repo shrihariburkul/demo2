@@ -1,1 +1,2 @@
 this line  add after creation of file
+this line to this file from remote side
